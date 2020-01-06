@@ -1,2 +1,2 @@
-# Kaggle-Dataset-Comptetion
- 
+# Kaggle-Comptetion-Titanic-Dataset
+ Kaggle-Comptetion-Titanic-Dataset
